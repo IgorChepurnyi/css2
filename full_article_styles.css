@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(65, 65, 75);
+    }
+ p {
+    font-size: large;
+    padding: 10 px;
+    text-align: justify;
+  }
+div {
+    box-sizing: border-box;
+    width: 1000px;
+   padding: 30px;
+    margin: 23px;
+}
+img{
+    width:200px;
+    float:left;
+    margin: 5px;
+    }

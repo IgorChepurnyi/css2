@@ -1,0 +1,42 @@
+h1 {
+    color: black;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    }
+ p {
+    font-size: large;
+    text-align: justify;
+    line-height: 1.5;
+    margin:0px;
+  }
+div {
+    box-sizing: border-box;
+    width: 800px;
+    border: solid #1f1f20 1px;
+    padding: 30px;
+    margin: 23px;
+  }
+a {
+    float: right;
+    text-decoration:none;
+    font-size: large;
+    }
+
+h1+a{
+      height:150px;
+      width: auto;
+      float:left;
+      margin-bottom:0px;
+      margin-top:5px;
+      margin-left:0px;
+      margin-right: 5px;
+    }
+img{
+     height:150px;
+    width: auto;
+    float:left;
+    margin-bottom:0px;
+    margin-top:5px;
+    margin-left:0px;
+    margin-right: 5px;
+}
